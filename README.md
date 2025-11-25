@@ -18,7 +18,8 @@ Aqui organizo anotações, conceitos-chave e um print ilustrativo usado para com
 
 ## 🧩 Visão Geral do Monitoramento
 
-A imagem em `images/monitoring-overview.png` representa um cenário típico de monitoramento de VMs no Azure, incluindo:
+A imagem em ![Monitoramento Azure](images/monitoring-overview.png)
+` representa um cenário típico de monitoramento de VMs no Azure, incluindo:
 
 - Dashboard de **Virtual Machines** com métricas de CPU, disco e rede.
 - Tela do **Activity Log** filtrando operações administrativas (como exclusão de VM).
